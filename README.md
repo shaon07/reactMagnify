@@ -1,2 +1,2 @@
-# reactMagnify
+# photoGallery
 Created with CodeSandbox
