@@ -1,2 +1,0 @@
-# photoGallery
-Created with CodeSandbox
